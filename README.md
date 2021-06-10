@@ -24,10 +24,14 @@ And to express ideas better, I am constantly trying to improve my knowledge and 
 ### **1. Clever Consumption 💸📖📆** <br />
 A full-stack JavaScript and React web app that allows people to check their balance easily and accurately by simply storing the details of each transaction.
 
+![image](https://user-images.githubusercontent.com/68725614/121446641-d13a0180-c948-11eb-8584-a90bb2b432fa.png) ![image](https://user-images.githubusercontent.com/68725614/121446506-8324fe00-c948-11eb-9f8c-726d8b3ce9e9.png) ![image](https://user-images.githubusercontent.com/68725614/121446597-b1a2d900-c948-11eb-8e87-ea9d63b72bf4.png) ![image](https://user-images.githubusercontent.com/68725614/121446690-f169c080-c948-11eb-8769-896931711b1a.png) ![image](https://user-images.githubusercontent.com/68725614/121446716-fe86af80-c948-11eb-83e5-7afa5091ed24.png) ![image](https://user-images.githubusercontent.com/68725614/121446756-1827f700-c949-11eb-9cc7-bd836a0b3ae4.png)
+
 Live site will be update soon.
 
 ### **2. Bucket Places ✈🌏🖼** <br />
 A dynamic JavaScript, HTML, and CSS app that allows users to save images and descriptions about where their bucket places and easily check and update their storage history at any time.
+
+![image](https://user-images.githubusercontent.com/68725614/121446834-4b6a8600-c949-11eb-8f43-d029fd6bc14f.png) ![image](https://user-images.githubusercontent.com/68725614/121446840-532a2a80-c949-11eb-947e-25ee24c37c48.png) ![image](https://user-images.githubusercontent.com/68725614/121446900-6dfc9f00-c949-11eb-862b-26a2d89fbd7a.png) ![image](https://user-images.githubusercontent.com/68725614/121446935-7a80f780-c949-11eb-88d7-fa84c54b9cc5.png) 
 
 Live site will be update soon.
 
