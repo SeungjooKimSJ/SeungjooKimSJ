@@ -38,7 +38,7 @@ Live site will be update soon.
 ## 🤝 Let's Connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/seungjoo-kim-sj/) 
 [<img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox)
-[<img alt="Resume" src="https://img.shields.io/badge/resume-00203F.svg?style=for-the-badge&logo=redux&logoColor=white" />](https://github.com/SeungjooKimSJ/resume/raw/main/Seungjoo_Kim___Resume_06092021.pdf)
+[<img alt="Resume" src="https://img.shields.io/badge/resume-00203F.svg?style=for-the-badge&logo=redux&logoColor=white" />](https://github.com/SeungjooKimSJ/SeungjooKimSJ/blob/main/Seungjoo_Kim___Resume_06092021.pdf)
 
 
 <!--
