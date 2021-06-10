@@ -2,7 +2,7 @@
 
 
 ## 🙋‍♂️ About Me
-Hello there👋. <br />
+Hello there👋! <br />
 I'm Seungjoo Kim (SJ), a full stack Web Developer who recently joined this field with passion. <br /> 
 
 I've been communicating with people for ten years while doing service-related jobs. <br />
