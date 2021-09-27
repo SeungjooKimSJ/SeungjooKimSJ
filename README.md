@@ -29,7 +29,7 @@ My portfolio-webpage that introduce myself using HTML, CSS, and JavaScript.
 ![image](https://user-images.githubusercontent.com/68725614/134993753-fbf4454a-bf39-494a-bbdd-dce0d0ec06a9.png)
 
 ### **2. Business Card Maker 💼🤝📰** <br />
-A full-stack JavaScript and React-based web app that manages to store data using a Firebase and allows users to easily create and delete other people's name cards.
+A full-stack JavaScript and React-based web app that manages to store data using a Firebase and allows users to easily create and delete other's name cards.
 
 [README](https://github.com/SeungjooKimSJ/business-card-maker/blob/master/README.md)
 
