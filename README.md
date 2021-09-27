@@ -21,7 +21,26 @@ And to express ideas better, I am constantly trying to improve my knowledge and 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Npm" src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=red" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 ## 🖥 Applications
-### **1. Clever Consumption 💸📖📆** <br />
+### **1. Portfolio-webpage 🙋‍♂️👀🏡** <br />
+My portfolio-webpage that introduce myself using HTML, CSS, and JavaScript.
+
+[README](https://github.com/SeungjooKimSJ/portfolio-webpage/blob/master/README.md)
+
+![image](https://user-images.githubusercontent.com/68725614/134993753-fbf4454a-bf39-494a-bbdd-dce0d0ec06a9.png)
+
+# Live site
+https://seungjookimsj.github.io/portfolio-webpage/
+
+### **2. Business Card Maker 💼🤝📰** <br />
+A full-stack JavaScript and React-based web app that manages to store data using a Firebase and allows users to easily create and delete other people's name cards.
+
+[README](https://github.com/SeungjooKimSJ/business-card-maker/blob/master/README.md)
+
+![image](https://user-images.githubusercontent.com/68725614/134992496-95e3fb2b-1625-4cea-97f3-fbb83490fa18.png)
+
+Live site will be update soon.
+
+### **3. Clever Consumption 💸📖📆** <br />
 A full-stack JavaScript and React web app that allows people to check their balance easily and accurately by simply storing the details of each transaction.
 
 [README](https://github.com/SeungjooKimSJ/final-project/blob/master/README.md)
@@ -30,7 +49,7 @@ A full-stack JavaScript and React web app that allows people to check their bala
 
 Live site will be update soon.
 
-### **2. Bucket Places ✈🌏🖼** <br />
+### **4. Bucket Places ✈🌏🖼** <br />
 A dynamic JavaScript, HTML, and CSS app that allows users to save images and descriptions about where their bucket places and easily check and update or delete their storage history at any time.
 
 [README](https://github.com/SeungjooKimSJ/ajax-project/blob/master/README.md)
