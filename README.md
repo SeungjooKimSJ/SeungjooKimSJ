@@ -22,7 +22,7 @@ And to express ideas better, I am constantly trying to improve my knowledge and 
 
 ## 🖥 Applications
 ### **1. Portfolio-webpage 👨‍💼👀🏡** <br />
-My portfolio-webpage that introduce myself using HTML, CSS, and JavaScript.
+Created a webpage introducing myself using HTML, JavaScript, and CSS.
 
 [README](https://github.com/SeungjooKimSJ/portfolio-webpage/blob/master/README.md)
 
