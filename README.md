@@ -23,6 +23,7 @@ And to express ideas better, I am constantly trying to improve my knowledge and 
 ## 🖥 Applications
 ### **1. Portfolio-webpage 👨‍💼👀🏡** <br />
 Created a webpage introducing myself using HTML, JavaScript, and CSS.
+
 [Livecode](https://seungjookimsj.netlify.app/)
 
 [README](https://github.com/SeungjooKimSJ/portfolio-webpage/blob/master/README.md)
