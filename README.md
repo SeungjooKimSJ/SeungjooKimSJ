@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 Hello there👋! <br />
-I'm Seungjoo Kim (SJ), a full stack Web Developer who recently joined this field with passion. <br /> 
+I'm Seungjoo Kim (SJ), a Front-end Web Developer who recently joined this field with passion. <br /> 
 
 I've been communicating with people for ten years while doing service-related jobs. <br />
 One of the biggest reasons why I have been able to work without much friction with people during that field was, <br />
@@ -31,7 +31,7 @@ Created a webpage introducing myself using HTML, JavaScript, and CSS.
 ![image](https://user-images.githubusercontent.com/68725614/134993753-fbf4454a-bf39-494a-bbdd-dce0d0ec06a9.png)
 
 ### **2. Business Card Maker 💼🤝📰** <br />
-A full-stack JavaScript and React-based web app that manages to store data using a Firebase and allows users to easily create and delete other's name cards.
+A Full-stack JavaScript and React-based web app that manages to store data using a Firebase and allows users to easily create and delete other's name cards.
 
 [README](https://github.com/SeungjooKimSJ/business-card-maker/blob/master/README.md)
 
@@ -40,7 +40,7 @@ A full-stack JavaScript and React-based web app that manages to store data using
 Live site will be update soon.
 
 ### **3. Clever Consumption 💸📖📆** <br />
-A full-stack JavaScript and React web app that allows people to check their balance easily and accurately by simply storing the details of each transaction.
+A Full-stack JavaScript and React web app that allows people to check their balance easily and accurately by simply storing the details of each transaction.
 
 [README](https://github.com/SeungjooKimSJ/final-project/blob/master/README.md)
 
