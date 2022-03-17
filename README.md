@@ -5,7 +5,7 @@
 Hello there👋! <br />
 I'm Seungjoo Kim (SJ), a Front-end Web Developer who recently joined this field with passion. <br /> 
 
-I've been communicating with people for ten years while doing service-related jobs. <br />
+I've been communicating with people for over eight years while doing service-related and accounting job. <br />
 One of the biggest reasons why I have been able to work without much friction with people during that field was, <br />
 I always like to put myself in the other person's shoes and understand their thoughts. Also I have a positive mindset! <br />
 
