@@ -31,7 +31,7 @@ A Front-end JavaScript and React-based web application that allows users to writ
 ![image](https://user-images.githubusercontent.com/68725614/157575038-ae566eb8-c225-41eb-bf66-048e9872e79c.png)
 
 ### **2. Portfolio-webpage 👨‍💼👀🏡** <br />
-Created a webpage introducing myself using HTML, JavaScript, and CSS.
+It is my portfolio webpage where I can introduce myself as a developer using HTML, CSS, and JavaScript.
 
 [Live Site](https://seungjookimsj.netlify.app/)
 
