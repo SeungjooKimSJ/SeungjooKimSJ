@@ -49,7 +49,7 @@ A Full-stack JavaScript and React-based web app that manages to store data using
 Live site will be update soon.
 
 ### **4. Clever Consumption 💸📖📆** <br />
-A Full-stack JavaScript and React web app that allows people to check their balance easily and accurately by simply storing the details of each transaction.
+A Full-stack JavaScript and React web app that allows users to organize & check their expenditure history by period just by saving the transaction history.
 
 [README](https://github.com/SeungjooKimSJ/final-project/blob/master/README.md)
 
@@ -58,7 +58,7 @@ A Full-stack JavaScript and React web app that allows people to check their bala
 Live site will be update soon.
 
 ### **5. Bucket Places ✈🌏🖼** <br />
-A dynamic JavaScript, HTML, and CSS app that allows users to save images and descriptions about where their bucket places and easily check and update or delete their storage history at any time.
+A dynamic JavaScript, HTML, and CSS app that allows users to search the place, and save images & descriptions about their bucket places at any time.
 
 [README](https://github.com/SeungjooKimSJ/ajax-project/blob/master/README.md)
 
