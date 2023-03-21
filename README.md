@@ -12,7 +12,7 @@ I always like to put myself in the other person's shoes and understand their tho
 After I became interested in coding, I enjoy planning and making apps based on this personality. <br />
 And to express ideas better, I am constantly trying to improve my knowledge and understanding of coding!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SeungjooKimSJ&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SeungjooKimSJ&count_private=true&theme=outrun&show_icons=true&hide=contribs,stars)]() -->
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjooKimSJ&langs_count=5&theme=outrun)]() -->
 
